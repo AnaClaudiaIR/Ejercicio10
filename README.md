@@ -1,0 +1,1 @@
+Mostrar la opción escogida de una lista desplegable en JavaFX.
